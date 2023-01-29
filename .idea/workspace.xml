@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22f1326f-5d79-49b2-ab7a-b5678848e560" name="Changes" comment="ajout section shop products">
+    <list default="true" id="22f1326f-5d79-49b2-ab7a-b5678848e560" name="Changes" comment="ajout section shop : Toutes les box">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
@@ -81,7 +81,7 @@
       <workItem from="1674754363409" duration="1042000" />
       <workItem from="1674934381882" duration="1202000" />
       <workItem from="1675023121536" duration="2156000" />
-      <workItem from="1675030582983" duration="998000" />
+      <workItem from="1675030582983" duration="2902000" />
     </task>
     <task id="LOCAL-00001" summary="ajout css box, font style 2">
       <created>1674935373231</created>
@@ -104,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675030150133</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ajout section shop : Toutes les box">
+      <created>1675031604779</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675031604779</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +132,7 @@
     <MESSAGE value="ajout css box, font style 2" />
     <MESSAGE value="ajout css header / nav" />
     <MESSAGE value="ajout section shop products" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout section shop products" />
+    <MESSAGE value="ajout section shop : Toutes les box" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout section shop : Toutes les box" />
   </component>
 </project>
