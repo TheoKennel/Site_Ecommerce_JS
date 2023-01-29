@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22f1326f-5d79-49b2-ab7a-b5678848e560" name="Changes" comment="ajout css header / nav">
+    <list default="true" id="22f1326f-5d79-49b2-ab7a-b5678848e560" name="Changes" comment="ajout section shop products">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
@@ -25,6 +25,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4550194f-b6fb-4c36-82a0-769567d5e0e6" />
+        <option name="url" value="https://github.com/TheoKennel/Site_Ecommerce_JS.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -67,7 +80,8 @@
       <updated>1674754362529</updated>
       <workItem from="1674754363409" duration="1042000" />
       <workItem from="1674934381882" duration="1202000" />
-      <workItem from="1675023121536" duration="1645000" />
+      <workItem from="1675023121536" duration="2156000" />
+      <workItem from="1675030582983" duration="998000" />
     </task>
     <task id="LOCAL-00001" summary="ajout css box, font style 2">
       <created>1674935373231</created>
@@ -83,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675023810617</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ajout section shop products">
+      <created>1675030150133</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675030150133</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ajout css box, font style 2" />
     <MESSAGE value="ajout css header / nav" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout css header / nav" />
+    <MESSAGE value="ajout section shop products" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout section shop products" />
   </component>
 </project>
