@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22f1326f-5d79-49b2-ab7a-b5678848e560" name="Changes" comment="fin pannier html et CSS">
-      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+    <list default="true" id="22f1326f-5d79-49b2-ab7a-b5678848e560" name="Changes" comment="Début Page main.js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +85,8 @@
       <workItem from="1675023121536" duration="2156000" />
       <workItem from="1675030582983" duration="2926000" />
       <workItem from="1675069772757" duration="3835000" />
-      <workItem from="1675157076965" duration="2573000" />
+      <workItem from="1675157076965" duration="2699000" />
+      <workItem from="1675241166569" duration="1906000" />
     </task>
     <task id="LOCAL-00001" summary="ajout css box, font style 2">
       <created>1674935373231</created>
@@ -136,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675073523810</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Début Page main.js">
+      <created>1675160243936</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675160243936</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Début Page main.js">
+      <created>1675160249869</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675160249869</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +176,7 @@
     <MESSAGE value="ajout css section Shop + début class cart" />
     <MESSAGE value="début du panier / cart" />
     <MESSAGE value="fin pannier html et CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="fin pannier html et CSS" />
+    <MESSAGE value="Début Page main.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Début Page main.js" />
   </component>
 </project>
