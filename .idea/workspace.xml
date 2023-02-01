@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22f1326f-5d79-49b2-ab7a-b5678848e560" name="Changes" comment="Page JS : Update Total,  Remove Items From Cart, Making fonction ready, Cart Working JS">
+    <list default="true" id="22f1326f-5d79-49b2-ab7a-b5678848e560" name="Changes" comment="Page JS : Update Total,  Remove Items From Cart, Making fonction ready, Cart Working JS&#10;Fini et ok">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
     </list>
@@ -87,7 +87,7 @@
       <workItem from="1675030582983" duration="2926000" />
       <workItem from="1675069772757" duration="3835000" />
       <workItem from="1675157076965" duration="2699000" />
-      <workItem from="1675241166569" duration="2861000" />
+      <workItem from="1675241166569" duration="4943000" />
     </task>
     <task id="LOCAL-00001" summary="ajout css box, font style 2">
       <created>1674935373231</created>
@@ -159,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675243242698</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Page JS : Update Total,  Remove Items From Cart, Making fonction ready, Cart Working JS&#10;Fini et ok">
+      <created>1675244129805</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675244129805</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +193,7 @@
     <MESSAGE value="fin pannier html et CSS" />
     <MESSAGE value="Début Page main.js" />
     <MESSAGE value="Page JS : Update Total,  Remove Items From Cart, Making fonction ready, Cart Working JS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Page JS : Update Total,  Remove Items From Cart, Making fonction ready, Cart Working JS" />
+    <MESSAGE value="Page JS : Update Total,  Remove Items From Cart, Making fonction ready, Cart Working JS&#10;Fini et ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="Page JS : Update Total,  Remove Items From Cart, Making fonction ready, Cart Working JS&#10;Fini et ok" />
   </component>
 </project>
