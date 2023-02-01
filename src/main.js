@@ -16,7 +16,7 @@ if (document.readyState === 'loading'){
 } else {
     ready();
 }
-// Making fonction ready
+// Making function ready
 function ready(){
 //     Remove Item From Cart
     let reomveCartButtons = document.getElementsByClassName('cart-remove')
@@ -24,6 +24,12 @@ function ready(){
     for (let i = 0; i < reomveCartButtons.length; i++){
         const button = reomveCartButtons[i]
         button.addEventListener('click', removeCartItem)
+    }
+//     Quantity Changes
+    let quantityInputs = document.getElementsByClassName('cart-quantity')
+    for (let i = 0; i < quantityInputs.length; i++) {
+        let input = quantityInputs[i]
+        input.addEventListener('change', quantityChanged);
     }
 }
 
@@ -33,13 +39,20 @@ function removeCartItem(event){
     buttonClicked.parentElement.remove()
     updateTotal();
 }
-
+// Quantity Changes
+function quantityChanged(event){
+    let input = event.target
+    if (isNaN(input.value) || input.value <= 0) {
+        input.value = 1;
+    }
+    updateTotal();
+}
 // Update Total
 function updateTotal(){
-    const cartContent = document.getElementsByClassName('cart-content')[0];
+    let cartContent = document.getElementsByClassName('cart-content')[0];
     const cartBoxes = cartContent.getElementsByClassName('cart-box');
     let total = 0;
-    for (let i = 0; i < reomveCartButtons.length; i++){
+    for (let i = 0; i < cartBoxes.length; i++){
         const cartBox = cartBoxes[i]
         const priceElement = cartBox.getElementsByClassName('cart-price')[0];
         let quantityElement = cartBox.getElementsByClassName('cart-quantity')[0];
